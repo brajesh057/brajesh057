@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Brajesh Naik</h1>
 <h3 align="center">A passionate Machine learning developer from India</h3>
 
-- 🔭 I’m currently working on [stock prediction using machine learning](https://github.com/brajesh057/stock-prediction-using-Machine-Learning)
-
-- 🌱 I’m currently learning **Machine Learning**
+- A Python developer ready to face all hurdles to make impact
 
 - 👯 I’m looking to collaborate on [AR Measuring appliation using unity](https://github.com/brajesh057/AR-measuring-application)
 
